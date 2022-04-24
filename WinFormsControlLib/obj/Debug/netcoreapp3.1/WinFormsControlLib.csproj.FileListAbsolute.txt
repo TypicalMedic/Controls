@@ -1,0 +1,13 @@
+C:\Users\Marusya\source\repos\WinFormsControlLib\bin\Debug\netcoreapp3.1\WinFormsControlLib.deps.json
+C:\Users\Marusya\source\repos\WinFormsControlLib\bin\Debug\netcoreapp3.1\WinFormsControlLib.dll
+C:\Users\Marusya\source\repos\WinFormsControlLib\bin\Debug\netcoreapp3.1\WinFormsControlLib.pdb
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.csproj.AssemblyReference.cache
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.AssemblyInfoInputs.cache
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.AssemblyInfo.cs
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.csproj.CoreCompileInputs.cache
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.dll
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.pdb
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.FilePathSelect.resources
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.csproj.GenerateResource.cache
+C:\Users\Marusya\source\repos\WinFormsControlLib\obj\Debug\netcoreapp3.1\WinFormsControlLib.ChooseColor.resources
