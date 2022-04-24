@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WinFormsControlLib\WinFormsControlLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Update="CanvasSizeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CanvasSizeForm.Designer.cs">
+      <DependentUpon>CanvasSizeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Update="DocForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DocForm.Designer.cs">
+      <DependentUpon>DocForm.cs</DependentUpon>
+    </Compile>
+    <Compile Update="ImageSizeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImageSizeForm.Designer.cs">
+      <DependentUpon>ImageSizeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Update="save.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="save.Designer.cs">
+      <DependentUpon>save.cs</DependentUpon>
+    </Compile>
+    <Compile Update="starF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="starF.Designer.cs">
+      <DependentUpon>starF.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CanvasSizeForm.resx">
+      <DependentUpon>CanvasSizeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="DocForm.resx">
+      <DependentUpon>DocForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ImageSizeForm.resx">
+      <DependentUpon>ImageSizeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="save.resx">
+      <DependentUpon>save.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="starF.resx">
+      <DependentUpon>starF.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
