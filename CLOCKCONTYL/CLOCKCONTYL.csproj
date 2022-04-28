@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="clock - Copy %282%29.xaml.cs">
+      <SubType>Code</SubType>
+      <DependentUpon>clock.xaml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="clock - Copy - Copy.xaml.cs">
+      <SubType>Code</SubType>
+      <DependentUpon>clock - Copy.xaml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="clock - Copy.xaml.cs">
+      <SubType>Code</SubType>
+      <DependentUpon>clock.xaml.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>
